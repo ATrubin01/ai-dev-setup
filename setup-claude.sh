@@ -70,4 +70,4 @@ fi
 stepComplete "Claude Code setup complete"
 echo ""
 infoMessage "Start Claude Code with: claude"
-infoMessage "Bootstrap a new project with: claude --mcp-debug"
+infoMessage "Bootstrap any project with: ai-bootstrap"
