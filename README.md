@@ -2,7 +2,7 @@
 
 Automated setup script that configures Claude Code with MCP (Model Context Protocol) servers for GitHub and AWS — enabling AI-assisted development workflows across any project.
 
-Inspired by enterprise AI dev tooling patterns (similar to AWS Kiro + Bedrock setups).
+Inspired by enterprise AI dev tooling patterns used at large engineering organizations.
 
 ## What It Does
 
@@ -19,7 +19,7 @@ One script sets up a fully connected AI development environment:
 Developer → Claude Code → MCP Servers → GitHub / AWS / Filesystem
 ```
 
-MCP (Model Context Protocol) is an open standard by Anthropic that lets AI assistants connect to external tools and data sources. The same protocol is used by AWS Kiro (via Bedrock) and Claude Code (via Anthropic API).
+MCP (Model Context Protocol) is an open standard by Anthropic that lets AI assistants connect to external tools and data sources. It is supported by Claude Code and AWS Bedrock-based AI tools.
 
 ## Quick Start
 
